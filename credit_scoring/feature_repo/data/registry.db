@@ -1,0 +1,90 @@
+
+C
+%
+__dummy"
+__dummy_idJcredit_scoring
+€Ë èéğ1€Ë èéğ1
+
+c
+dob_ssn?Date of birth and last four digits of social security number..."dob_ssnJcredit_scoring
+€Ë Øô1€Ë Øô1
+@
+"
+zipcode"zipcodeJcredit_scoring
+€Ë À‘ö1€Ë À‘ö11"$d574d27c-09dd-4f8c-bd34-c194378c0101*ÈóË àÛ¶2—
+Ú
+credit_historycredit_scoringdob_ssn"
+credit_card_due"
+mortgage_due"
+student_loan_due"
+vehicle_loan_due"
+
+hard_pulls"
+missed_payments_2y"
+missed_payments_1y"
+missed_payments_6m"
+bankruptcies*
+teamOps*
+ownerluanht12€¼àß:»event_timestamp*created_timestampZom/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢m/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquet@b
+dob_ssn8
+€Ë À‹ø1ã Ë Ø·ÿ•
+ÕäêÀúÿÿÿÿĞ·¢ƒ¦ Ë 2º
+ı
+zipcode_featurescredit_scoringzipcode"
+city"	
+state"
+location_type"
+tax_returns_filed"
+
+population"
+total_wages*
+teamOps*
+ownerluanht12€¼àß:¹event_timestamp*created_timestampZnl/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢l/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquet@b
+zipcode8
+€Ë ˆÇ†2å Ë È÷Õ¯
+ãäêÀúÿÿÿÿø™½–¦ Ë :ˆ
+ç
+features_group_v1credit_scoringÍ
+credit_history
+credit_card_due
+mortgage_due
+student_loan_due
+vehicle_loan_due
+
+hard_pulls
+missed_payments_2y
+missed_payments_1y
+missed_payments_6m
+bankruptciesr
+zipcode_features
+city	
+state
+location_type
+tax_returns_filed
+
+population
+total_wages
+§ìË È§Ä‰§ìË È§Ä‰:²
+‘
+features_group_v2credit_scoringÍ
+credit_history
+credit_card_due
+mortgage_due
+student_loan_due
+vehicle_loan_due
+
+hard_pulls
+missed_payments_2y
+missed_payments_1y
+missed_payments_6m
+bankruptcies
+zipcode_features
+city
+óË €ÑƒíóË €ÑƒíRğ
+´
+,feast.infra.online_stores.sqlite.SqliteTable"ƒ
+b/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_credit_history
+¶
+,feast.infra.online_stores.sqlite.SqliteTable"…
+b/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_zipcode_featuresbÌevent_timestamp*created_timestampZom/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢m/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetªcredit_scoringbÊevent_timestamp*created_timestampZnl/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢l/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetªcredit_scoringz6
+credit_scoring$61d6ac11-669a-46f1-a870-2d256629ee3e
