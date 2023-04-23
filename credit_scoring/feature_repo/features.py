@@ -7,6 +7,11 @@ from feast import (
 import feast.types
 import os
 
+from feast.infra.offline_stores.contrib.mssql_offline_store.mssqlserver_source import (
+    MsSqlServerOptions
+)
+
+
 zipcode = Entity(
     name="zipcode",
     join_keys=["zipcode"]
@@ -21,8 +26,8 @@ zipcode_features = FeatureView(
     entities=[zipcode],
     ttl=timedelta(days=36500),
     schema=[
-        Field(name="city", dtype=feast.types.String),
-        Field(name="state", dtype=feast.types.String),
+        Field(name="city", dtype=feast.types.String, description="abc"),
+        Field(name="state", dtype=feast.types.String, description="state"),
         Field(name="location_type", dtype=feast.types.String),
         Field(name="tax_returns_filed", dtype=feast.types.Int64),
         Field(name="population", dtype=feast.types.Int64),
