@@ -1,18 +1,31 @@
 
-
-c
-dob_ssn?Date of birth and last four digits of social security number..."dob_ssnJcredit_scoring
-³ÿ“¡Àí´!³ÿ“¡Àí´!
 C
 %
 __dummy"
 __dummy_idJcredit_scoring
-³ÿ“¡È‹¸!³ÿ“¡È‹¸!
+ÉÎ‚¦°Ÿô_ÉÎ‚¦°Ÿô_
 @
 "
 zipcode"zipcodeJcredit_scoring
-³ÿ“¡Ğ¬º!³ÿ“¡Ğ¬º!1"$92d6a0c9-1e20-4463-9285-1a3b3da6e5ff*³ÿ“¡øÁô!2ù
-Ú
+ÉÎ‚¦¨éø_ÉÎ‚¦¨éø_
+
+c
+dob_ssn?Date of birth and last four digits of social security number..."dob_ssnJcredit_scoring
+ÉÎ‚¦°‡ü_ÉÎ‚¦°‡ü_1"$ddf0a045-4d40-4911-bd81-486f6ac71edc*ÉÎ‚¦¨Æ×`2
+ÿ
+zipcode_featurescredit_scoringzipcode"
+city"abc"
+state"state"
+location_type"
+tax_returns_filed"
+
+population"
+total_wages*
+teamOps*
+ownerluanht12€¼àß:¯event_timestamp*created_timestampZig/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢g/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/zipcode_table.parquet@b
+zipcode
+ÉÎ‚¦Ğÿ_ÉÎ‚¦Ğÿ_2ï
+Ğ
 credit_historycredit_scoringdob_ssn"
 credit_card_due"
 mortgage_due"
@@ -23,24 +36,11 @@ hard_pulls"
 missed_payments_2y"
 missed_payments_1y"
 missed_payments_6m"
-bankruptcies*
-ownerluanht1*
-teamOps2€¼àß:»event_timestamp*created_timestampZom/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢m/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquet@b
-dob_ssn
-³ÿ“¡ğÅ¼!³ÿ“¡ğÅ¼!2¨
-‰
-zipcode_featurescredit_scoringzipcode"
-city"abc"
-state"state"
-location_type"
-tax_returns_filed"
-
-population"
-total_wages*
+bankruptcies*
 teamOps*
-ownerluanht12€¼àß:¹event_timestamp*created_timestampZnl/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢l/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquet@b
-zipcode
-³ÿ“¡àÇË!³ÿ“¡àÇË!:µ
+ownerluanht12€¼àß:±event_timestamp*created_timestampZjh/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢h/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/credit_history.parquet@b
+dob_ssn
+ÉÎ‚¦ˆü‘`ÉÎ‚¦ˆü‘`:µ
 –
 features_group_v2credit_scoringÍ
 credit_history
@@ -56,7 +56,7 @@ hard_pulls
 bankruptcies!
 zipcode_features
 city"abc
-³ÿ“¡À‡Ö!³ÿ“¡À‡Ö!:’
+ÉÎ‚¦Èû¦`ÉÎ‚¦Èû¦`:’
 ó
 features_group_v1credit_scoringÍ
 credit_history
@@ -78,11 +78,11 @@ hard_pulls
 
 population
 total_wages
-³ÿ“¡øúá!³ÿ“¡øúá!Rğ
-´
-,feast.infra.online_stores.sqlite.SqliteTable"ƒ
-b/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_credit_history
-¶
-,feast.infra.online_stores.sqlite.SqliteTable"…
-b/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_zipcode_featuresbÌevent_timestamp*created_timestampZom/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢m/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/credit_history.parquetªcredit_scoringbÊevent_timestamp*created_timestampZnl/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢l/Users/haluan/projects/my_repo/aws_credit_scoring/credit_scoring/feature_repo/raw_data/zipcode_table.parquetªcredit_scoringz6
-credit_scoring$70ef172d-457b-4690-8441-70e64c79a6b8
+ÉÎ‚¦¨º`ÉÎ‚¦¨º`Rå
+®
+,feast.infra.online_stores.sqlite.SqliteTable"~
+]/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_credit_history
+±
+,feast.infra.online_stores.sqlite.SqliteTable"€
+]/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/data/online_store.dbcredit_scoring_zipcode_featuresbÂevent_timestamp*created_timestampZjh/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢h/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/credit_history.parquetªcredit_scoringbÀevent_timestamp*created_timestampZig/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢g/Users/haluan/Downloads/FeastDemo2/FeastDemo/credit_scoring/feature_repo/raw_data/zipcode_table.parquetªcredit_scoringz6
+credit_scoring$152e6746-c760-4072-a1be-9c87ec8af038
